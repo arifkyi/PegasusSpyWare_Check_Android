@@ -57,7 +57,7 @@ mvt-android download-iocs
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 ***************************************
 
-<b> Check one by one by fire these commands below:</br>
+<b> Check one by one by fire these commands below:</b> </br>
 
 mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs <full path name of the stix file you need to look from the output of command above>
 
