@@ -59,7 +59,7 @@ mvt-android download-iocs
 
 Check one by one by fire these commands below:
 
-mvt-ios check-backup --output /home/output/ /home/cases/ --iocs   <full path name of the stix file you need to look from the output of command above>
+mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs <full path name of the stix file you need to look from the output of command above>
 
 example if you want to check the Pegasus Spyware : <br>
 
