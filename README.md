@@ -63,5 +63,5 @@ mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs <
 
 example if you want to check the Pegasus Spyware : <br>
 
-mvt-android check-adb --serial 192.168.1.21:5555 --output /home/output --iocs 5. /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
+mvt-android check-adb --serial 192.168.1.21:5555 --output /home/output --iocs /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
