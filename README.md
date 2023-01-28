@@ -10,8 +10,7 @@ Although the title is about Pegasus spyware, but the scope is also checking othe
 Stalkerware, RCS Lab etc.
 
 
-<b> Enable the ADB Mode in your android </b>
-
+# Enable the ADB Mode in your android 
 <b> Enable the ADB Mode in your Android with this video:</b> https://www.youtube.com/shorts/6yeNltxuEiQ <br>
 
 after you enable the ADB Mode in your Android, then follow these steps <br>
