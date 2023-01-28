@@ -57,11 +57,11 @@ mvt-android download-iocs
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AssoEchap_stalkerware-indicators_master_generated_stalkerware.stix2
 ***************************************
 
-Check one by one by fire these commands below:
+<b> Check one by one by fire these commands below:</br>
 
 mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs <full path name of the stix file you need to look from the output of command above>
 
-example if you want to check the Pegasus Spyware : <br>
+<b> example if you want to check the Pegasus Spyware : </b> <br>
 
 mvt-android check-adb --serial 192.168.1.21:5555 --output /home/output --iocs /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
