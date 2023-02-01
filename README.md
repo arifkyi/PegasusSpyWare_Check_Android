@@ -34,6 +34,9 @@ docker build -t mvt .
 
 docker run --rm -it --network host mvt
 
+or if you want to mounting directory you can use this command <br>
+<b> docker run --rm -it --network host -v "$PWD:/mnt/tmp" mvt </b>
+
 # Usage
 
 <b> Now download the IOCS STIX files </b>
