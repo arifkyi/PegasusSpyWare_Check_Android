@@ -13,9 +13,10 @@ Stalkerware, RCS Lab etc.
 # Enable the ADB Mode in your android 
 
 <b> before Enable the ADB Mode in your Android, you need to enable the USB debug mode 
-  with this video:</b> https://www.youtube.com/shorts/6yeNltxuEiQ <br>
+  with this video:</b> <br> 
+  https://www.youtube.com/shorts/6yeNltxuEiQ <br>
 
-after you enable the ADB Mode in your Android, then follow these steps <br>
+After enable the USB Debug mode then we good to go for ADB Mode in Android, then follow these steps <br>
 
 1. connect your android phone to your laptop with cable data
 2. run this command: "adb tcpip 5555"
