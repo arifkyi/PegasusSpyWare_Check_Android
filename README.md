@@ -11,7 +11,9 @@ Stalkerware, RCS Lab etc.
 
 
 # Enable the ADB Mode in your android 
-<b> Enable the ADB Mode in your Android with this video:</b> https://www.youtube.com/shorts/6yeNltxuEiQ <br>
+
+<b> before Enable the ADB Mode in your Android, you need to enable the USB debug mode 
+  with this video:</b> https://www.youtube.com/shorts/6yeNltxuEiQ <br>
 
 after you enable the ADB Mode in your Android, then follow these steps <br>
 
