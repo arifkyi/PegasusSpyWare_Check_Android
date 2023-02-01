@@ -62,7 +62,7 @@ mvt-android download-iocs
 
 <b> Check one by one by fire these commands below:</b> </br>
 
-mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs <full path name of the stix file you need to look from the output of command above>
+mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs [full path name of the stix file you need to look from the output of command above]
 
 <b> example if you want to check the Pegasus Spyware : </b> <br>
 
