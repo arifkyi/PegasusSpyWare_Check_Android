@@ -2,7 +2,7 @@
 
 <b>you can see the video here:</b>
 
-https://youtu.be/Yk7pUPjlU4U
+https://www.youtube.com/watch?v=Yk7pUPjlU4U
 
 <b>  Background : </b>
 
