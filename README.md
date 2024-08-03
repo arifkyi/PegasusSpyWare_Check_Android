@@ -48,7 +48,8 @@ the rest of the steps are the same
 
 mvt-android download-iocs
 
-# If just in case in the future not work, i already backup in this repository in Zip file Android_IOCS_STIX2.zip
+# If just in case in the future:
+download IOCSnot work, i already backup in this repository in Zip file Android_IOCS_STIX2.zip
 
 <b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
 
