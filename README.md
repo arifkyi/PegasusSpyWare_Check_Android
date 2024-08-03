@@ -48,6 +48,8 @@ the rest of the steps are the same
 
 mvt-android download-iocs
 
+# If just in case in the future not work, i already backup in this repository in Zip file Android_IOCS_STIX2.zip
+
 <b> indicators "NSO Group Pegasus Indicators of Compromise" to </b>
 
 /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
