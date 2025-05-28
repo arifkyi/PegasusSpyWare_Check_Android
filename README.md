@@ -79,3 +79,12 @@ mvt-android check-adb --serial AndroidWlanIP:5555 --output /home/output --iocs [
 
 mvt-android check-adb --serial 192.168.1.21:5555 --output /home/output --iocs /root/.local/share/mvt/indicators/raw.githubusercontent.com_AmnestyTech_investigations_master_2021-07-18_nso_pegasus.stix2
 
+## ☕ Support Me, Support Rifky The Cyber YouTube Channel
+
+If you find this tool helpful and would like to support its development, you can buy me a coffee!
+
+**[☕ Support on Ko-fi](https://ko-fi.com/rifkythecyber)**
+
+Or scan the QR code below:
+
+![Donate](https://github.com/user-attachments/assets/560314d1-58f9-4d0d-a96e-78d28bb7dc44)
